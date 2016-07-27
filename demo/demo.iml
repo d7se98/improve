@@ -22,6 +22,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< HEAD
     <orderEntry type="module-library">
       <library name="JUnit4">
         <CLASSES>
@@ -33,6 +34,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+=======
+>>>>>>> c164c9e3c6863af57a3631c275759faca733883c
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:1.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:1.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:1.2.4.RELEASE" level="project" />
@@ -75,8 +78,11 @@
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.0.23" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.4.2" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:jstl:1.2" level="project" />
+<<<<<<< HEAD
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-actuator:1.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator:1.2.4.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-test:4.1.6.RELEASE" level="project" />
+=======
+>>>>>>> c164c9e3c6863af57a3631c275759faca733883c
   </component>
 </module>

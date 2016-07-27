@@ -40,8 +40,11 @@
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.0.23" />
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.0.23" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+<<<<<<< HEAD
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-actuator:1.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-actuator:1.2.4.RELEASE" />
+=======
+>>>>>>> c164c9e3c6863af57a3631c275759faca733883c
         </element>
       </element>
       <element id="directory" name="META-INF">
