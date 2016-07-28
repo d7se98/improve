@@ -6,18 +6,24 @@ package com.example;
 public class Greeting {
 
   private final long id;
-  private final String content;
+  private final String name;
+  private final String deptName;
 
-  public Greeting(long id, String content) {
+  public Greeting(long id, String name,String deptName) {
     this.id = id;
-    this.content = content;
+    this.name = name;
+    this.deptName=deptName;
   }
 
   public long getId() {
     return id;
   }
 
-  public String getContent() {
-    return content;
+  public String getName() {
+    return name;
+  }
+
+  public String getDeptName() {
+    return deptName;
   }
 }
